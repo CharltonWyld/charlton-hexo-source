@@ -1,0 +1,63 @@
+/*页脚背景设置白色透明*/
+#footer {
+    background: rgba(255,255,255,.3);
+}
+
+/*文章背景*/
+.layout_post>#post {
+    background: rgba(255,255,255,.7);
+}
+
+/*其他背景*/
+#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{
+    background: rgba(255,255,255,.7);
+}
+
+/*背景动态渐变色*/
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+#web_bg {
+    background: linear-gradient(-45deg, #ead1dc, #cfe2f3, #fff2cc, #d9d2e9);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+}
+
+/*页脚背景*/
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+#footer {
+    background: linear-gradient(-45deg, #ead1dc, #cfe2f3, #fff2cc, #d9d2e9);
+    background-size: 400% 500%;
+    animation: gradientBG 15s ease infinite;
+}
+
+
+/*页脚 字体默认设为黑色*/
+#footer-wrap {
+    color: rgb(0,0,0);
+}
+
+/*页脚 a 标签字体默认设为蓝色*/
+#footer-wrap a {
+    color: rgb(0,0,255);
+}
