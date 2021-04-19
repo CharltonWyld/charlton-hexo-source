@@ -476,7 +476,7 @@ site_verification:
 # Notice: color value must in double quotes like "#000" or may cause error!
 
 theme_color:
-  enable: true
+  enable: false
   main: "#8DB6CD"
   paginator: "#C6E2FF"
   button_hover: "#EE8262"
@@ -861,7 +861,7 @@ inject:
   head:
     - <link rel="stylesheet" href="/css/butterfly.css">
   bottom:
-    - <script src="/js/sakura.js"></script>  #加载sakura.js
+    # - <script src="/js/sakura.js"></script>  #加载sakura.js
 
 # CDN
 # Don't modify the following settings unless you know how they work

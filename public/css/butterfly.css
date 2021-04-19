@@ -14,6 +14,7 @@
 }
 
 /*背景动态渐变色*/
+/* 感觉页面会卡 先不用了
 @keyframes gradientBG {
     0% {
         background-position: 0% 50%;
@@ -31,8 +32,10 @@
     background-size: 400% 400%;
     animation: gradientBG 15s ease infinite;
 }
+*/
 
 /*页脚背景*/
+/*
 @keyframes gradientBG {
     0% {
         background-position: 0% 50%;
@@ -44,6 +47,7 @@
         background-position: 0% 50%;
     }
 }
+*/
 
 #footer {
     background: linear-gradient(-45deg, #ead1dc, #cfe2f3, #fff2cc, #d9d2e9);
@@ -53,11 +57,15 @@
 
 
 /*页脚 字体默认设为黑色*/
+/*
 #footer-wrap {
     color: rgb(0,0,0);
 }
+*/
 
 /*页脚 a 标签字体默认设为蓝色*/
+/*
 #footer-wrap a {
     color: rgb(0,0,255);
 }
+*/
