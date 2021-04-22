@@ -44,10 +44,10 @@ copy:
 social:
   # fab fa-github: https://github.com/CharltonWyld || Github
   # fas fa-envelope: charlton.chong.wang@outlook.com || Email
-  fas fa-compact-disc: https://music.163.com/#/user/home?id=601387468 || 网易云
+  fas fas fa-music: https://music.163.com/#/user/home?id=601387468 || 网易云
   fab fa-weibo: https://weibo.com/623110182wch?is_all=1 || 微博
   fab fa-zhihu: https://www.zhihu.com/people/zebra-90-69 || 知乎
-  fas fa-film: https://space.bilibili.com/410276698 || B站
+  fas fas fa-bold: https://space.bilibili.com/410276698 || B站
 
 # search (搜索)
 # --------------------------------------
