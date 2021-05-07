@@ -1,11 +1,11 @@
 - class_name: Friendly link
   class_desc: 那些人，那些事
   link_list:
-    - name: charlton
+    - name: Charlton
       link: https://charltonwyld.github.io/
       avatar: /img/avatar.jpg
       descr: Walking in the light
-    - name: maricle
+    - name: Mathew
       link: https://www.maricle.com.cn/
       avatar: /img/wuchaozong.jpg
       descr: 大学上铺
