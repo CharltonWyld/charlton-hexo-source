@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charltonwyld.github.io/2021/05/12/Linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</loc>
+    
+    <lastmod>2021-05-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charltonwyld.github.io/about/index.html</loc>
     
     <lastmod>2021-04-20</lastmod>
@@ -46,7 +53,7 @@
 
   <url>
     <loc>https://charltonwyld.github.io/</loc>
-    <lastmod>2021-05-07</lastmod>
+    <lastmod>2021-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,7 +61,7 @@
   
   <url>
     <loc>https://charltonwyld.github.io/tags/Linux/</loc>
-    <lastmod>2021-05-07</lastmod>
+    <lastmod>2021-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -63,7 +70,7 @@
   
   <url>
     <loc>https://charltonwyld.github.io/categories/Linux/</loc>
-    <lastmod>2021-05-07</lastmod>
+    <lastmod>2021-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
