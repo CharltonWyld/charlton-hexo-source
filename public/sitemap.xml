@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charltonwyld.github.io/2021/02/15/hello-world/</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charltonwyld.github.io/music/index.html</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charltonwyld.github.io/2021/05/12/Linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</loc>
     
     <lastmod>2021-05-12</lastmod>
@@ -30,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://charltonwyld.github.io/2021/03/10/hello-world/</loc>
-    
-    <lastmod>2021-04-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charltonwyld.github.io/tags/index.html</loc>
     
     <lastmod>2021-04-15</lastmod>
@@ -53,7 +60,7 @@
 
   <url>
     <loc>https://charltonwyld.github.io/</loc>
-    <lastmod>2021-05-13</lastmod>
+    <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,7 +68,7 @@
   
   <url>
     <loc>https://charltonwyld.github.io/tags/Linux/</loc>
-    <lastmod>2021-05-13</lastmod>
+    <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,7 +77,7 @@
   
   <url>
     <loc>https://charltonwyld.github.io/categories/Linux/</loc>
-    <lastmod>2021-05-13</lastmod>
+    <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

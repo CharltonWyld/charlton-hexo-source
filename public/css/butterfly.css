@@ -1,4 +1,4 @@
-/*页脚背景设置白色透明*/
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*页脚背景设置白色透明*/
 #footer {
     background: rgba(255,255,255,.3);
 }
