@@ -140,4 +140,4 @@ baidusitemap:
 deploy:
   type: 'git'
   repo: 'https://github.com/CharltonWyld/CharltonWyld.github.io.git'
-  branch: gh-pages
+  branch: master

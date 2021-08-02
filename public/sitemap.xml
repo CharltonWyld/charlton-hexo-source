@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charltonwyld.github.io/about/index.html</loc>
+    
+    <lastmod>2021-08-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charltonwyld.github.io/2021/08/03/%E7%AB%B9%E4%B9%A6%E8%AE%B0%E6%88%91/</loc>
+    
+    <lastmod>2021-08-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charltonwyld.github.io/2021/08/01/%E5%A6%82%E4%BD%95%E5%81%9C%E6%AD%A2%E6%8B%96%E5%BB%B6/</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charltonwyld.github.io/2021/02/15/hello-world/</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -19,13 +40,6 @@
     <loc>https://charltonwyld.github.io/2021/05/12/Linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</loc>
     
     <lastmod>2021-05-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charltonwyld.github.io/about/index.html</loc>
-    
-    <lastmod>2021-04-20</lastmod>
     
   </url>
   
@@ -60,7 +74,7 @@
 
   <url>
     <loc>https://charltonwyld.github.io/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,7 +82,21 @@
   
   <url>
     <loc>https://charltonwyld.github.io/tags/Linux/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://charltonwyld.github.io/tags/%E6%8B%96%E5%BB%B6%E7%97%87/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://charltonwyld.github.io/tags/%E4%B8%AA%E4%BA%BA%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2021-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,7 +105,14 @@
   
   <url>
     <loc>https://charltonwyld.github.io/categories/Linux/</loc>
-    <lastmod>2021-07-13</lastmod>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://charltonwyld.github.io/categories/%E7%AB%B9%E4%B9%A6%E8%AE%B0%E6%88%91/</loc>
+    <lastmod>2021-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
