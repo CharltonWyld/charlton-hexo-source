@@ -31,21 +31,6 @@ comments: true
 
 
 
-##### 2019-05
-
-<div style="height:120px; border-bottom:2px solid #eee; border-left:2px dashed #eee; border-right:2px dashed #eee">A公司：</div>
-
-
-
-
-
-##### 2017-09
-
-
-<div style="height:120px; border-bottom:2px solid #eee; border-left:2px dashed #eee; border-right:2px dashed #eee">B公司：</div>
-
-
-
 
 
 #### 联系我

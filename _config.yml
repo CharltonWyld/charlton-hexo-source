@@ -37,7 +37,8 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
-  field: site # Apply to the whole site
+#  field: site # Apply to the whole site
+  field: post # Apply to the whole site
   exclude: ''
 filename_case: 0
 render_drafts: false
@@ -130,9 +131,9 @@ baidusitemap:
 
 
 # 配置 aplayer
-#aplayer:
-#    meting: true
-#    asset_inject: false
+aplayer:
+    meting: true
+    asset_inject: false
 
 
 # Deployment
